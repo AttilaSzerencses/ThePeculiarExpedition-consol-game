@@ -1,8 +1,8 @@
 # ThePeculiarExpedition-consol-game
--------------
+
 JDK: 11
-You have to run main.java.
--------------
+You have to run main.java, if you want to try the game.
+
 This is the peculiar expedition consol game, so it has no GUI. It was written in Java. This game is an older project. I made in 2021, and I'm uploading now. This was a school project.
 
 You can find the game descreption pdf file: "Game description.pdf" in the folder. I made this game in Idea, and I used unicode charachters. It could be a problem, if you use another program to run.
