@@ -6,6 +6,8 @@ You can find the game descreption pdf file: "Game description.pdf" in the folder
 
 Shortly about the game(you can find the long description in the pdf):
 
+The game language is Hungarin.
+
 You can add your own map into your game.
 
 You can choose the number of the enemies.
