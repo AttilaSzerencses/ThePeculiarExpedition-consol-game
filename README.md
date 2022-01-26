@@ -27,3 +27,4 @@ There is a bigger movement cost on the jungel cell, if you don't have macheta.
 
 On the cave cell and altar cell you can find treasure, it can be sold on the ship. If you step on this cells there is a chanche to get curse. But unfortunatly the curse is not programmed.
  
+Author: Attila Szerencses
